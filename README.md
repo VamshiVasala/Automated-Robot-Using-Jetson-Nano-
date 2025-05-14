@@ -1,5 +1,3 @@
-
-readme_content = """
 # 🤖 Automated Robot Using Jetson Nano
 
 An intelligent autonomous robot built using the **Jetson Nano**, capable of real-time object detection, SLAM-based navigation, and conversational AI — all enhanced with stereo vision and 3D depth perception.
