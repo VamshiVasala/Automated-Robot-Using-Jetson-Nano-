@@ -1,4 +1,4 @@
-# Create a Markdown file with the enhanced README content
+
 readme_content = """
 # 🤖 Automated Robot Using Jetson Nano
 
